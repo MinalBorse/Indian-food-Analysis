@@ -23,3 +23,15 @@ Also the fun fact is that Naan bread, which is traditionally associated with Ind
 According to Indian Food Theory, our food has 6 different flavours: sweet, salty, bitter, sour, astringent and spicy. A proper Indian meal is a perfect balance of all 6 flavours, with one or two flavours standing out. So the next time you eat your meal, you know how to judge it
 
 Link of my Viz- https://public.tableau.com/app/profile/minal6896/viz/IndianFoodAnalysis_16373301723020/Story1?publish=yes
+
+##Breakdown of my Jupyter notebook:
+Loading the dataset: Load the data and import the libraries.
+Data Cleaning:
+Deleting redundant columns.
+Renaming the columns.
+Dropping duplicates.
+Cleaning individual columns.
+Remove the NaN values from the dataset
+#Some Transformations
+EDA and Hypothesis testing
+Data Visualization: Using plots to find relations between the features
